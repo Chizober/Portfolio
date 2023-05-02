@@ -13,7 +13,7 @@
   /* font */
   --black: #fff;
   /* background */
-  --white: #fff;
+  --white: #000;
   /* Typography */
 
   --ff-roboto: "Roboto", sans-serif;
@@ -78,7 +78,7 @@ body {
 body.dark {
   /* color for font light mode */
   --light-bg: #000;
-  --black: #fff;
+  --black: #222;
   /* color for font dark mode */
   --white: #000;
 }
@@ -194,7 +194,7 @@ section {
 
 .card__title  {
   font-size: calc(var(--fs-4) * var(--fs-2));
-  color: #000;
+  color: #fff;
 
 }
 .card__text {
