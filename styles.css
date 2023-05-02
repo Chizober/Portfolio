@@ -80,7 +80,7 @@ body.dark {
   --light-bg: #333;
   --black: #fff;
   /* color for font dark mode */
-  --white: #2f5061;
+  --white: #333;
 }
 body.active {
   overflow: hidden;
