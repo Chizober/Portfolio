@@ -78,7 +78,7 @@ body {
 body.dark {
   /* color for font light mode */
   --light-bg: #000;
-  --black: #222;
+  --black: #fff;
   /* color for font dark mode */
   --white: #000;
 }
