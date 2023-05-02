@@ -194,7 +194,7 @@ section {
 
 .card__title  {
   font-size: calc(var(--fs-4) * var(--fs-2));
-  color: #fff;
+  color: #000;
 
 }
 .card__text {
