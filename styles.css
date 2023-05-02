@@ -11,9 +11,9 @@
   /* colors */
   --orange: #af2510;
   /* font */
-  --black: #ffff;
+  --black: #f4eae6;
   /* background */
-  --white: #222;
+  --white: #333;
   /* Typography */
 
   --ff-roboto: "Roboto", sans-serif;
@@ -77,10 +77,10 @@ body {
 }
 body.dark {
   /* color for font light mode */
-  --light-bg: #333;
+  --light-bg: #000;
   --black: #fff;
   /* color for font dark mode */
-  --white: #333;
+  --white: #000;
 }
 body.active {
   overflow: hidden;
